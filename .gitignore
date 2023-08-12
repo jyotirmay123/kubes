@@ -1,0 +1,4 @@
+.venv
+*repo/
+.env
+.DS_Store
